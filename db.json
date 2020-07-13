@@ -3,23 +3,23 @@
       name: "Python Automation",
       img:
         "https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png",
-      url: "/info",
+      url: "/info"
     },
     {
       name: "C plus plus",
       img: "https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png",
-      url: "/info",
+      url: "/info"
     },
     {
       name: "Java",
       img:
         "https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png",
-      url: "/info",
+      url: "/info"
     },
     {
       name: "Cascaded stylesheet",
       img:
         "https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png",
-      url: "/info",
-    },
+      url: "/info"
+    }
 ]
